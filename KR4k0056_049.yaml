@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/49
+seq: 49
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第四十八回至八十回起自西晉惠帝太安二年癸亥歲九月止於西晉懷帝永嘉九年辛未歲六月首尾共九年事實
+  hash: sha256:26c286a4228f9fe11e00c12149740e7b25795e9d1f15d1f469cbe20c7d5db770
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_049-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:4470360b42ed5dd44c23d3f309d273b662effead925bed28579365f9108900cf

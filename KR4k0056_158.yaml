@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/158
+seq: 158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一五五回王敦舉兵謀逆叛六月王敦謀反以沈充錢鳳為謀士鄭嶽周撫為左右先鋒統兵二十萬準備待行王敦偶發疾傳令屯駐三軍時王敦無子養兄王含之子王應為嗣敦疾甚乃與錢鳳商議矯詔拜王應為武衛將軍以代敦權領三軍以兄王含為驃騎大將軍令其督戰當錢鳳謂敦曰今丞相疾甚設有不諱便當以大事付應耶敦曰非常之事非常人所能為且應年少豈堪大事我死之後吾有三計君等宜行之莫若釋兵散衆歸身朝廷保全門戶此第一上計也退還武昌收兵自守貢獻不廢此第二中計也及吾尚存悉衆而下萬一僥幸此第三下計也鳳欲作亂乃謂其黨曰今丞相下計乃上策也汝等各宜盡忠休懷二心
+  hash: sha256:cbc5d97ba90d41f12821104a23d5ee8c14b7539ba663c36555a6a333d6d52282
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_158-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:85e0c647e991a4c7a187999e847ca63796b0636752bcbfee858880f84201acda

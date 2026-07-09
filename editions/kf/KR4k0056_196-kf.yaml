@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/196
+seq: 196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一九三回漢修宮廷殺仆射翔歸燕呈上璽綬百官朝賀皝大悅燕王皝既受封爲王乃以子恪爲度遼將軍率一萬五千人去鎮平郭恪既受命至鎮撫舊懷新屢破高麗之兵高麗畏之不敢入境自此邊地安然民皆樂業卻說成王壽初以儉約寬惠得蜀人心服李閡還盛稱說鄴中繁庶宮殿裝飾又言趙王虎以刑殺禦下故能控制境內壽慕之亦大修宮室人有小過輒殺以立威當仆射蔡興李錄諫之皆坐直諫而死因是民疲於賦役思亂者衆矣
+  hash: sha256:b29da01e9c68512ac08b958a5368da7131e9fb1e0521e773151a22bf6829d2bd
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_196-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:33b9fc56b0bc7d12b2025cfdc946e40d17bdb97618bb04ac72208ea276432891

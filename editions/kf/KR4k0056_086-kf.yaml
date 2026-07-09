@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/86
+seq: 86
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第八十三回石勒陷蒙執苟晞卻說石勒以軍來攻蒙城時苟晞在蒙城驕奢苛暴前遼西太守閻亨諫曰明公居亂世欲效中興不可奢暴使天下有歸也晞怒命左右殺之時從事明預有疾聞亨諫被殺亦使家人乘輿自入諫曰聞亨所諫乃天下之公亦明公之福也何以殺之以失士望晞怒曰我殺閻亨何關汝事而竟來罵我預曰明公以禮待預故預以禮自盡今明公怒預其如遠近怒明公何桀爲天子以驕暴而亡況人臣乎願明公且置是怒思預之言晞不從由是衆心離怨加以疾疫饑餓城內虛困石勒軍到攻城將士離散無人守把勒軍攻入城如入虛境石勒既入內將苟晞豫章王瑞皆執之勒招晞降晞不從勒以鐵鎖鎖晞頸晞方從之以晞爲左司馬
+  hash: sha256:3e08985e55cc4317bbc6e5cfa951dd38cd5eca6b4df5dba98563914ee05053fc
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_086-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:527cf3ca5424d9f53d49da21143b477dc9ce83640b9996fc1234269df9095026

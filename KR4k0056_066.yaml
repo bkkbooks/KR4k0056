@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第六十四回司馬越執權秉政自此關中皆服於越河間王顒保長安而已東海王趙越為太傅穎川人庾敳為軍咨祭酒泰山人胡母輔之為從事中郎以河南郭象為主簿以陳留人阮修為行軍參軍以陽夏人謝鯤為掾數人皆尚虛玄不以世故攝其心清言放誕越以其名重故辟之八月荊州都督新城劉弘卒時天下大亂弘專督江漢威行南服事成則曰某人之功如敗則曰老夫之罪每有興廢手書輒相叮嚀款密人皆感悅爭赴之鹹曰得劉公一紙書勝於十部從事也辛冉説弘以縱橫之事弘怒斬之至是卒諡曰元
+  hash: sha256:eb76aff085033dcfdc1d039c12f9207d7f26ae4d686580782eb17c661b0892f7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_066-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:c45f111ac7a6d86e568f3fca86e42d790f502b191dcc03198a28d62ba79f3fe1

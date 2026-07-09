@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/83
+seq: 83
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第八十一回至第一百一十七回起自西晉懷帝永嘉九年辛未歲七月止于東晉中宗元皇帝建武元年丙子首尾共六年事實
+  hash: sha256:d5a10f0d5846e17288208186db0721d95fc1317752f6b6791a321c21157dcd4b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_083-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:785a3a945605362d671e2fc104ee3ecbde62b074d342651fd08ac4c3185b64d9

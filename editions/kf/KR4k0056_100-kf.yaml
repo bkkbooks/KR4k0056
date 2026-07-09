@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第九十七回張光視死如登仙十月氐羌楊茂搜之子楊難敵遣其子販易於梁州被梁州刺史張光殺之及光與王如餘黨楊虎相攻光不能勝使人求救于楊茂搜茂搜遣難敵以兵來救光被楊虎竊知密使人持金寶厚賂難敵反與虎夾擊張光大敗攖城自守憤激成疾僚屬勸光退據魏興光按劍曰吾受國重任不能討賊今得死如登仙何謂退也聲絕而卒難敵知光死了城中無主驅兵攻拔梁州入屯紮之卻說陶侃既受荊州刺史屯沔江與諸將謀興兵來長沙擊杜弢杜弢亦引軍出迎兩下交兵於城下弢又敗被侃揮兵大破之弢逃入城堅守不出
+  hash: sha256:77866d911e12f89991c081023266589b20b38504a9dfa4b403e179f558da5918
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_100-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:b57373ad936ef04f0ea089d13e1ff4df193864b8bf4998abe243b0f9677157ff

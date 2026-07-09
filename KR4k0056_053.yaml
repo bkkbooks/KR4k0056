@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/53
+seq: 53
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第五十一回成都王獨執權政卻説司馬顒使人上表推司馬穎為皇太弟而己為太宰領雍州牧惠帝下詔從之秋七月司馬穎既為皇太弟僭侈日甚嬖小人用事大失衆望東海王司馬越怒之因謂右衛將軍陳肜曰今成都王穎廢皇后太子自為太弟後必有廢立之心若不討之其謀必成矣卿可助我一臂之力殺此跋扈肜曰殿下肯主張臣願效力於是司馬越與陳肜勒軍入雲龍門奏惠帝以詔三公百僚戒嚴討穎穎與石超聞知奔走還鄴去訖越乃復皇后羊氏太子司馬覃監國請帝自上鸞駕詔集百官皆戎裝以六軍起行時稽紹隨駕欲行侍中秦準謂紹曰今往安危不測卿有佳馬乎紹正色曰臣子扈從乘輿死生以之要佳馬何為言訖即行
+  hash: sha256:97de6f677fa4bdb91d127d66af466dbdb6c194bf3be6eb8e7dfdc736a91f1e97
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_053-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:f9d07e8752adb8e8a64aecf056752b72b2bc197a3a19772930f95a8e1f4ff6d3

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/326
+seq: 326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第三二三回裕以往亡獲燕王南燕城外聞男女病腳弱者大半出降尚書悅壽謂超曰今軍士凋瘁絕望外援豈可不思變通之計超歎曰廢興命也吾寧伏劍而死不能銜璧而生劉裕悉衆攻城諸將曰今日往亡不利出師裕曰我往彼亡何爲不利催軍人四面攻之南燕尚書悅壽聞張綱降晉密寫獻門之書系在箭上射下城來軍士拾見張綱綱將書見裕裕喚請將聽令如入冀州休得殺害一城老小軍民降者免死群盜又使于栗磾討不從命者所向皆克
+  hash: sha256:c8962c6f00da1404542294b48d4398650f0e164669c24544247960718c1fef03
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_326-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:20f8efc8ef76e5b358b6e36378fd9cf446e2b35b16a78fc002de4b62a60dd470

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/116
+seq: 116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一一三回漢主劉聰殺太弟四月劉聰之子劉粲欲殺太弟劉乂無計因與左右近侍商議使太弟黨謂乂曰適奉中沼雲京師將有變宜束甲以備乂信之命宦官皆裹甲粲以其計告靳準王沈二人次早白漢主聰曰太弟將為亂自與宦官皆裹甲矣聰大驚使人探之東宮宦官果皆裹甲因此信之大怒命靳準持軍收東宮官屬坑士卒萬五千餘人廢劉乂為北部劉粲尋使靳準殺之乂形神秀爽寬仁有氣度故士心多附之漢主聰聞其死哭之曰吾兄弟止豫二人而不相容安得使天下知吾心耶言訖命厚葬之時六月豫州牧荀組及冀州刺史邵續青州曹嶷寧州王遜等皆表勸晉王進尊號晉王不許
+  hash: sha256:727f0af085d140f2a92880118e9e80b6894d19014de10000b1f577cc20bd4fa3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_116-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:f1bd446596a0625d8a6d7deb06a242a41507079992312bf8e87f6c6fd5ab874e

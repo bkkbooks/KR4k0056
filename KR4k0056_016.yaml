@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第十六回八王用事相圖害次早惠帝設朝賈後在後殿出奏曰楊駿謀反今已誅之無人參輔朝政汝南文成王司馬亮尚書衛瓘二人乃先朝元宰忠義慨然使其輔政國家幸甚伏望陛下政臨親決剛明不惑未知聖意雲何惠帝曰皇后所奏正合朕心言訖即以汝南文成王司馬亮為太宰録尚書事以尚書衛瓘為太保同輔朝政汝南王司馬亮既輔政欲悅衆論誅惡賞功諸將封侯者千八十一人亮皆增封賞禦史中丞傅鹹曰無功而獲厚賞則人莫不樂國之有禍是禍源無窮也亮不從傅鹹復諫亮亦不從自是亮頗專權執政
+  hash: sha256:5a991c0aca8452e3b28780a403cd525d6e93ae02cbc4843849ba701e4722dbe5
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_016-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:813c4e0c71f0af110080d3af89bb2c821007820b19773997268ada24a4a0410c

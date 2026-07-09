@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/205
+seq: 205
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第二二回李奕舉兵攻成都卻說漢王李勢驕奢淫侈不恤政事罕接公卿信任左右讒說並進刑罰苛濫於是中外分心太保李弈自從晉壽舉兵反衆至十萬圍繞成都漢王勢自率禁兵登城助戰李奕見勢自登城上親自披挂至城下數勢之罪被勢執弓射之中弈項而死漢兵見弈被射死了乃開城門出擊大敗奕衆還自是西至犍爲梓潼佈滿山谷十余萬落擄掠四野不可禁制大爲民患加以饑饉四境蕭條
+  hash: sha256:6b92626a220708b724768a98b351816e43308acfa54392df0b56b35d5a99f1c6
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_205-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:c2b216754d71fd61ad12608bbc16aa19a6f9c74474951a1d7c42d03d499ef826

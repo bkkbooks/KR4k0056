@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第二十七回至四十八回起自西晉惠帝永康元年庚申歲止于惠帝太安二年九月首尾共十三年事實
+  hash: sha256:0e52a3ebdaa56905a21fb1921253c64c3875247772e0f63d4304cd446f24c5f2
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_027-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:0e73a670bdec25d4e1a65c6c7f13d6f2876e78e490862498aa45620b4db43be5

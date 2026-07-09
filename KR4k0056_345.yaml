@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/345
+seq: 345
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第三四二回姚紹督兵拒潼關二月王鎮惡進軍潼關檀道濟沈林子自陝北渡河攻拔襄邑堡又攻尹昭于蒲阪尹昭堅壁不出不克秦王泓急以東平公姚紹為太宰封魯公令其督將軍姚鸞等率步騎五萬守潼關遣別將姚顯以兵救蒲阪晉秦相持日久林子謂道濟曰蒲扳城堅兵多不可猝拔不如還與鎮惡並力以爭潼關若得之則尹昭不攻自潰矣道濟從之以兵來同鎮惡攻潼關三月至潼關紹引兵出戰道濟等奮擊大破之紹大敗退屯定城據險拒守遣姚彎屯大路絶晉糧道晉獲其別將尹雅道濟欲令殺之雅曰夷夏雖殊君臣之義一也晉以大義行師獨不使秦有守節之臣乎乃免之又林子夜以兵襲殺鸞泓又遣東平公紹屯河上以斷水道又被林子擊走之
+  hash: sha256:194520d2fbfe85a95f3c8e4f719a72e7a0565841b094e88401e5c5af1cf4220e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_345-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:43da510d90b1fe7271e901f151ebdf748a49b7e5e3f81deac71d372fcc755367

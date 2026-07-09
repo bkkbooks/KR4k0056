@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/273
+seq: 273
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第二七回高蓋謀立慕容沖乙酉十年高蓋諸將立慕容沖爲帝都于阿房城國號西燕改元更始元年慕容沖以高蓋爲大將軍總督內外諸軍事又以蔡文爲右將軍起兵二十余萬西燕王自與高蓋及蔡文大發兵馬禦駕親來攻打長安時翟斌恃功驕縱邀求無厭又以鄴城久不下潛有二心太子寶請除之燕王垂曰河南之盟不可負也若其爲難罪由於斌若事未有形而殺之人心謂我忌其功能吾方收攬豪傑以隆大業不可示人以狹失天下之望藉彼有謀吾以智防之無能爲也斌果與西秦長樂公丕通謀事覺垂乃殺之
+  hash: sha256:be805edbe90d7aac8390407d3a43f09600722481c07aae206069ba8d69cd6508
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_273-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:3ee48c91d5b4c1e763034ed4c086fb7914df057a1456d389b8473faef3bf460e

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/153
+seq: 153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一五回王遜怒甚冠裂卒卻說成王李雄使李驤率兵五萬來攻寧州刺史王遜已知遣將軍姚岳領軍三萬拒戰次日二軍相遇交戰不十合成軍敗走嶽催軍追至瀘水而還回見王遜遜以嶽不窮追李驤乃大怒鞭嶽怒甚冠裂而卒遜在州十四年威行殊俗士民得安於是朝廷已知其卒詔以其子王堅爲甯州刺史代領其衆
+  hash: sha256:a65a792765ee443156fc5e65c90b3cd701a52427735fc555e9d7d5b95bad3f4d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_153-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:590f5d19a158fdf3f58532a24e0d27ef1e7a264d985ed8bad67d300c49a6b0c8

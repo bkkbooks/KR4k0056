@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/170
+seq: 170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一六七回石虎率衆攻前趙八月後趙王勒使石虎率兵四萬攻趙虎軍至蒲阪趙王曜聞知自為將領十萬餘人來迎石虎大懼而退曜催軍追及與虎交戰又大破之斬其將石瞻橫尸二百餘裏虎奔朝歌曜以衆回攻石生於金蒲石生堅閉固守不出與戰使人回國取兵來救使人去了曜見石生不出計令諸將決千金嶇引水而灌之於是滎陽野王諸城皆降襄國大震
+  hash: sha256:c560f905344156746a0fa1644dbab89fec49875a1483720a03d25912cd3f1543
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_170-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:9ef467f0ca7526b46752779edc222ec9d18543875563c41c0d8bff595bb5b7bf

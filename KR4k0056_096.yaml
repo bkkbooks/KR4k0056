@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/96
+seq: 96
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第九十三回懷帝被害立湣帝四月懷帝被害凶聞至長安皇太子業與百官舉哀索綝等請太子業加元服而即帝位太子既即大位改號為建興元年以梁芬為司徒麴允索綝為仆射是時長安城中戶不盈百蒿荊成林公私有車四輛百官無章服印綬惟桑版署號而已尋以索綝為衛將軍領太尉軍國之事悉以委之史説索綝字巨秀敦煌人也少有逸群之量其父索靖每曰綝廊廟之才非簡劄之用州郡吏不足汙吾兒也至是果應其言孝湣帝名業字彥旗吳王宴之子武帝之孫也初封秦王及懷帝遇害大臣立以為帝在位四年為漢劉聰將執而弒之壽四十八按諡法在國遭憂曰湣
+  hash: sha256:0af886e4590aaf53e20d7ee5073b4f9a8b381a161463e8da99362135275fd157
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_096-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:5d28c2d60e05218253564306403857ddce81bd5d7540a4e88361cadd86184555

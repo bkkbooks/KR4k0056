@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4k0056/kf/v1/juan/157
+seq: 157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一五四回成立兄子爲太子卻說成王雄後任氏無子有妾子十餘人雄不立爲嗣乃立兄李特子班爲太子使任後母之群臣固諫不可請立諸子雄曰吾兄先帝之嫡統有奇才大功事垂克而早亡朕常悼之且班仁孝好學必能負荷先烈當太傅李驤諫曰先王立嗣必子者所以明定分而防篡奪也宋宣公故事亦足以觀矣雄不聽驤退而流涕曰亂自此始矣李班爲人謙恭下士動遵禮法雄每有大議輒令預之時五月趙涼王張茂疾篤執其子張駿手而泣曰吾家世以孝友恭順著稱晉室雖微汝奉承之不可失也且下令曰吾官非王命苟以集事死之日當以白衣人棺勿以朝服殮也言訖而卒茂既死趙王曜遣使立其子駿爲涼州牧封爲涼王
+  hash: sha256:fb320511c26828818b1368de1b20fcde99ec3a51574fa7345ed6cd114c7e5329
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4k0056_kf_157-h.1}
+metadata:
+  title: 兩晉秘史
+  edition:
+    short: kf
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0056.xml
+hash: sha256:4a5083e263e9a1fae83e8c9668fc244b7e7b1040d30852bdc6f3defe67f81b23
