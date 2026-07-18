@@ -416,6 +416,7 @@ markers:
   - {type: punctuation, offset: 809, content: 、, id: ''}
   - {type: 'tls:seg', offset: 809, content: '', id: KR4k0056_kf_168-p.8s.15}
   - {type: punctuation, offset: 809, content: 《, id: ''}
+  - {type: 'voice:problem', offset: 809, length: 0, id: KR4k0056_bkk_168-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 809 with no matching '('}
   - {type: punctuation, offset: 811, content: ), id: ''}
   - {type: punctuation, offset: 811, content: 。, id: ''}
   - {type: paragraph-break, offset: 811, content: '', id: KR4k0056_kf_168-p.8_end, role: close}
@@ -493,4 +494,4 @@ markers:
   - {type: line-break, offset: 974, content: '', id: ''}
   - {type: paragraph-break, offset: 974, content: '', id: KR4k0056_kf_168-p.10_end, role: close}
   back: []
-hash: sha256:2b4845d7602f06c6c0f97a272966b9dc04d40fb27ee03642ccf860602e87b0c3
+hash: sha256:d8a6d079102facf422b8c9ff07388ed5679e55bc19182a35536e91a05897a005

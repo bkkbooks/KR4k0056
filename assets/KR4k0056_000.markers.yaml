@@ -15,6 +15,7 @@ markers:
   - {type: line-break, offset: 4, content: '', id: ''}
   - {type: 'tls:seg', offset: 4, content: '', id: KR4k0056_kf_000-p.1s.0}
   - {type: punctuation, offset: 4, content: (, id: ''}
+  - {type: voice, offset: 4, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 5, content: ), id: ''}
   - {type: line-break, offset: 9, content: '', id: ''}
   - {type: page-break, offset: 9, content: '', id: ''}
@@ -5961,4 +5962,4 @@ markers:
   - {type: punctuation, offset: 4167, content: 。, id: ''}
   - {type: paragraph-break, offset: 4167, content: '', id: KR4k0056_kf_000-p.55_end, role: close}
   back: []
-hash: sha256:d156af0de627d9afebbff8ec478bbbf020db55936d0a1949ded7564be512016e
+hash: sha256:94a2cc49b1dafdf1f76da3ff89c905cbadf7fdc08a92a3d4abddbee9516d2b3b
